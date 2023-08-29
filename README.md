@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20YoonDongSung&fontSize=50&fontAlign=70&descAlign=80&rotate=10" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=170&section=header&text=Hello&desc=I'm%20YoonDongSung&fontSize=50&fontAlign=70&fontAlignY=20&descAlign=80&descAlignY=40&rotate=10" />
 
 <h2 align="center">안녕하세요 프론트엔드 개발자를 꿈꾸는 윤동성입니다😊</h1>
 
