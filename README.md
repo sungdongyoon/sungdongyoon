@@ -7,11 +7,9 @@
     열정과 호기심을 바탕으로 나날이 발전해나가는 개발자가 되도록 하겠습니다👊
   </h3>
 </div>
-
 <br/>
 <br/>
 <br/>
-
 <div align="center">
   <h3>📖 Skills</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -21,16 +19,21 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">  
 </div>
-
 <br/>
 <br/>
 <br/>
-
-
 <div align="center">
   <h3>🛠️ Tools</h3>
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
+</div>
+<br/>
+<br/>
+<br/>
+<div align="center">
+  <h3>👨‍💻 etc experience</h3>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 </div>
