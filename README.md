@@ -1,10 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=170&section=header&text=Hello&desc=I'm%20YoonDongSung&fontSize=50&fontAlign=70&fontAlignY=20&descSize=20&descAlign=80&descAlignY=40&rotate=10" />
 
 <div align="center">
-  <h3>🙌Introduction</h1>
-  <h4>
-    안녕하세요 프론트엔드 개발자를 꿈꾸는 윤동성입니다😊<br/>
-    열정과 호기심을 바탕으로 나날이 발전해나가는 개발자가 되도록 하겠습니다👊
+  <h3>
+   프론트엔드 개발자를 꿈꾸는 윤동성입니다😊<br/>
   </h3>
 </div>
 <br/>
